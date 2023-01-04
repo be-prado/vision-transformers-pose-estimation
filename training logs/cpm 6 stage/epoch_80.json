@@ -1,0 +1,301 @@
+{"hook_msgs": {}}
+{"mode": "train", "epoch": 1, "iter": 100, "lr": 0.0005, "memory": 31896, "data_time": 0.09342, "heatmap_loss": 0.01906, "acc_pose": 0.57086, "loss": 0.01906, "time": 1.21054}
+{"mode": "train", "epoch": 1, "iter": 200, "lr": 0.0005, "memory": 31896, "data_time": 0.00061, "heatmap_loss": 0.01875, "acc_pose": 0.5771, "loss": 0.01875, "time": 1.08863}
+{"mode": "train", "epoch": 1, "iter": 300, "lr": 0.0005, "memory": 31896, "data_time": 0.00063, "heatmap_loss": 0.0189, "acc_pose": 0.57609, "loss": 0.0189, "time": 1.09112}
+{"mode": "train", "epoch": 1, "iter": 400, "lr": 0.0005, "memory": 31896, "data_time": 0.00064, "heatmap_loss": 0.01892, "acc_pose": 0.57359, "loss": 0.01892, "time": 1.08946}
+{"mode": "train", "epoch": 1, "iter": 500, "lr": 0.0005, "memory": 31896, "data_time": 0.00062, "heatmap_loss": 0.01897, "acc_pose": 0.57685, "loss": 0.01897, "time": 1.09026}
+{"mode": "val", "epoch": 1, "iter": 25, "lr": 0.0005, "AP": 0.52069, "AP .5": 0.81934, "AP .75": 0.56934, "AP (M)": 0.50101, "AP (L)": 0.55382, "AR": 0.56448, "AR .5": 0.83454, "AR .75": 0.61792, "AR (M)": 0.53496, "AR (L)": 0.60691}
+{"mode": "train", "epoch": 2, "iter": 100, "lr": 0.0005, "memory": 31896, "data_time": 0.08997, "heatmap_loss": 0.01884, "acc_pose": 0.57553, "loss": 0.01884, "time": 1.18634}
+{"mode": "train", "epoch": 2, "iter": 200, "lr": 0.0005, "memory": 31896, "data_time": 0.00064, "heatmap_loss": 0.01888, "acc_pose": 0.57676, "loss": 0.01888, "time": 1.09024}
+{"mode": "train", "epoch": 2, "iter": 300, "lr": 0.0005, "memory": 31896, "data_time": 0.00062, "heatmap_loss": 0.01897, "acc_pose": 0.57747, "loss": 0.01897, "time": 1.08853}
+{"mode": "train", "epoch": 2, "iter": 400, "lr": 0.0005, "memory": 31896, "data_time": 0.00065, "heatmap_loss": 0.01879, "acc_pose": 0.58064, "loss": 0.01879, "time": 1.08948}
+{"mode": "train", "epoch": 2, "iter": 500, "lr": 0.0005, "memory": 31896, "data_time": 0.00064, "heatmap_loss": 0.01881, "acc_pose": 0.57728, "loss": 0.01881, "time": 1.09065}
+{"mode": "val", "epoch": 2, "iter": 25, "lr": 0.0005, "AP": 0.5358, "AP .5": 0.82067, "AP .75": 0.59628, "AP (M)": 0.51626, "AP (L)": 0.56738, "AR": 0.57596, "AR .5": 0.83926, "AR .75": 0.63555, "AR (M)": 0.54859, "AR (L)": 0.61535}
+{"mode": "train", "epoch": 3, "iter": 100, "lr": 0.0005, "memory": 31896, "data_time": 0.09324, "heatmap_loss": 0.01882, "acc_pose": 0.57923, "loss": 0.01882, "time": 1.19067}
+{"mode": "train", "epoch": 3, "iter": 200, "lr": 0.0005, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01885, "acc_pose": 0.57625, "loss": 0.01885, "time": 1.09026}
+{"mode": "train", "epoch": 3, "iter": 300, "lr": 0.0005, "memory": 31896, "data_time": 0.00064, "heatmap_loss": 0.0187, "acc_pose": 0.58188, "loss": 0.0187, "time": 1.09028}
+{"mode": "train", "epoch": 3, "iter": 400, "lr": 0.0005, "memory": 31896, "data_time": 0.00063, "heatmap_loss": 0.01879, "acc_pose": 0.5803, "loss": 0.01879, "time": 1.09043}
+{"mode": "train", "epoch": 3, "iter": 500, "lr": 0.0005, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01865, "acc_pose": 0.58178, "loss": 0.01865, "time": 1.0907}
+{"mode": "val", "epoch": 3, "iter": 25, "lr": 0.0005, "AP": 0.5414, "AP .5": 0.83082, "AP .75": 0.59523, "AP (M)": 0.51837, "AP (L)": 0.57696, "AR": 0.58112, "AR .5": 0.84446, "AR .75": 0.63807, "AR (M)": 0.55072, "AR (L)": 0.62505}
+{"mode": "train", "epoch": 4, "iter": 100, "lr": 0.0005, "memory": 31896, "data_time": 0.09293, "heatmap_loss": 0.01864, "acc_pose": 0.58319, "loss": 0.01864, "time": 1.18764}
+{"mode": "train", "epoch": 4, "iter": 200, "lr": 0.0005, "memory": 31896, "data_time": 0.00062, "heatmap_loss": 0.01862, "acc_pose": 0.58092, "loss": 0.01862, "time": 1.0893}
+{"mode": "train", "epoch": 4, "iter": 300, "lr": 0.0005, "memory": 31896, "data_time": 0.00065, "heatmap_loss": 0.01865, "acc_pose": 0.58253, "loss": 0.01865, "time": 1.09258}
+{"mode": "train", "epoch": 4, "iter": 400, "lr": 0.0005, "memory": 31896, "data_time": 0.00072, "heatmap_loss": 0.01858, "acc_pose": 0.58344, "loss": 0.01858, "time": 1.09051}
+{"mode": "train", "epoch": 4, "iter": 500, "lr": 0.0005, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.01876, "acc_pose": 0.58002, "loss": 0.01876, "time": 1.08997}
+{"mode": "val", "epoch": 4, "iter": 25, "lr": 0.0005, "AP": 0.54768, "AP .5": 0.83206, "AP .75": 0.60808, "AP (M)": 0.52837, "AP (L)": 0.58024, "AR": 0.58626, "AR .5": 0.84839, "AR .75": 0.64736, "AR (M)": 0.55985, "AR (L)": 0.62471}
+{"mode": "train", "epoch": 5, "iter": 100, "lr": 0.0005, "memory": 31896, "data_time": 0.08949, "heatmap_loss": 0.01875, "acc_pose": 0.58019, "loss": 0.01875, "time": 1.18635}
+{"mode": "train", "epoch": 5, "iter": 200, "lr": 0.0005, "memory": 31896, "data_time": 0.00064, "heatmap_loss": 0.01857, "acc_pose": 0.58345, "loss": 0.01857, "time": 1.09029}
+{"mode": "train", "epoch": 5, "iter": 300, "lr": 0.0005, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.01863, "acc_pose": 0.58192, "loss": 0.01863, "time": 1.09107}
+{"mode": "train", "epoch": 5, "iter": 400, "lr": 0.0005, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01857, "acc_pose": 0.5828, "loss": 0.01857, "time": 1.08987}
+{"mode": "train", "epoch": 5, "iter": 500, "lr": 0.0005, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01853, "acc_pose": 0.58221, "loss": 0.01853, "time": 1.09014}
+{"mode": "val", "epoch": 5, "iter": 25, "lr": 0.0005, "AP": 0.54294, "AP .5": 0.8404, "AP .75": 0.60038, "AP (M)": 0.52511, "AP (L)": 0.57421, "AR": 0.58481, "AR .5": 0.85154, "AR .75": 0.64216, "AR (M)": 0.55712, "AR (L)": 0.62475}
+{"mode": "train", "epoch": 6, "iter": 100, "lr": 0.0005, "memory": 31896, "data_time": 0.0919, "heatmap_loss": 0.01866, "acc_pose": 0.58458, "loss": 0.01866, "time": 1.18827}
+{"mode": "train", "epoch": 6, "iter": 200, "lr": 0.0005, "memory": 31896, "data_time": 0.00065, "heatmap_loss": 0.01862, "acc_pose": 0.58224, "loss": 0.01862, "time": 1.08944}
+{"mode": "train", "epoch": 6, "iter": 300, "lr": 0.0005, "memory": 31896, "data_time": 0.00064, "heatmap_loss": 0.01841, "acc_pose": 0.58371, "loss": 0.01841, "time": 1.0905}
+{"mode": "train", "epoch": 6, "iter": 400, "lr": 0.0005, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.0186, "acc_pose": 0.58304, "loss": 0.0186, "time": 1.08876}
+{"mode": "train", "epoch": 6, "iter": 500, "lr": 0.0005, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.01853, "acc_pose": 0.58723, "loss": 0.01853, "time": 1.0891}
+{"mode": "val", "epoch": 6, "iter": 25, "lr": 0.0005, "AP": 0.5476, "AP .5": 0.84072, "AP .75": 0.60366, "AP (M)": 0.53038, "AP (L)": 0.5734, "AR": 0.58725, "AR .5": 0.85186, "AR .75": 0.64389, "AR (M)": 0.56247, "AR (L)": 0.62356}
+{"mode": "train", "epoch": 7, "iter": 100, "lr": 0.0005, "memory": 31896, "data_time": 0.09034, "heatmap_loss": 0.01835, "acc_pose": 0.58884, "loss": 0.01835, "time": 1.1861}
+{"mode": "train", "epoch": 7, "iter": 200, "lr": 0.0005, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.01837, "acc_pose": 0.58715, "loss": 0.01837, "time": 1.08887}
+{"mode": "train", "epoch": 7, "iter": 300, "lr": 0.0005, "memory": 31896, "data_time": 0.00064, "heatmap_loss": 0.01848, "acc_pose": 0.58536, "loss": 0.01848, "time": 1.09115}
+{"mode": "train", "epoch": 7, "iter": 400, "lr": 0.0005, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.01848, "acc_pose": 0.58716, "loss": 0.01848, "time": 1.08897}
+{"mode": "train", "epoch": 7, "iter": 500, "lr": 0.0005, "memory": 31896, "data_time": 0.00065, "heatmap_loss": 0.01832, "acc_pose": 0.5894, "loss": 0.01832, "time": 1.08839}
+{"mode": "val", "epoch": 7, "iter": 25, "lr": 0.0005, "AP": 0.54488, "AP .5": 0.84014, "AP .75": 0.6034, "AP (M)": 0.52614, "AP (L)": 0.57547, "AR": 0.58627, "AR .5": 0.85091, "AR .75": 0.64562, "AR (M)": 0.55791, "AR (L)": 0.62746}
+{"mode": "train", "epoch": 8, "iter": 100, "lr": 0.0005, "memory": 31896, "data_time": 0.08774, "heatmap_loss": 0.01853, "acc_pose": 0.58782, "loss": 0.01853, "time": 1.18521}
+{"mode": "train", "epoch": 8, "iter": 200, "lr": 0.0005, "memory": 31896, "data_time": 0.00065, "heatmap_loss": 0.0184, "acc_pose": 0.58691, "loss": 0.0184, "time": 1.08928}
+{"mode": "train", "epoch": 8, "iter": 300, "lr": 0.0005, "memory": 31896, "data_time": 0.00064, "heatmap_loss": 0.01828, "acc_pose": 0.58954, "loss": 0.01828, "time": 1.09191}
+{"mode": "train", "epoch": 8, "iter": 400, "lr": 0.0005, "memory": 31896, "data_time": 0.00064, "heatmap_loss": 0.01837, "acc_pose": 0.58875, "loss": 0.01837, "time": 1.0883}
+{"mode": "train", "epoch": 8, "iter": 500, "lr": 0.0005, "memory": 31896, "data_time": 0.00064, "heatmap_loss": 0.01846, "acc_pose": 0.58708, "loss": 0.01846, "time": 1.08905}
+{"mode": "val", "epoch": 8, "iter": 25, "lr": 0.0005, "AP": 0.54262, "AP .5": 0.83167, "AP .75": 0.59378, "AP (M)": 0.52619, "AP (L)": 0.57277, "AR": 0.58386, "AR .5": 0.84808, "AR .75": 0.63885, "AR (M)": 0.55862, "AR (L)": 0.62048}
+{"mode": "train", "epoch": 9, "iter": 100, "lr": 0.0005, "memory": 31896, "data_time": 0.10052, "heatmap_loss": 0.01815, "acc_pose": 0.59123, "loss": 0.01815, "time": 1.19639}
+{"mode": "train", "epoch": 9, "iter": 200, "lr": 0.0005, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01822, "acc_pose": 0.59091, "loss": 0.01822, "time": 1.09128}
+{"mode": "train", "epoch": 9, "iter": 300, "lr": 0.0005, "memory": 31896, "data_time": 0.00065, "heatmap_loss": 0.01836, "acc_pose": 0.59337, "loss": 0.01836, "time": 1.09316}
+{"mode": "train", "epoch": 9, "iter": 400, "lr": 0.0005, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.01828, "acc_pose": 0.5894, "loss": 0.01828, "time": 1.09034}
+{"mode": "train", "epoch": 9, "iter": 500, "lr": 0.0005, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01829, "acc_pose": 0.58955, "loss": 0.01829, "time": 1.09083}
+{"mode": "val", "epoch": 9, "iter": 25, "lr": 0.0005, "AP": 0.55362, "AP .5": 0.84148, "AP .75": 0.6106, "AP (M)": 0.53311, "AP (L)": 0.58274, "AR": 0.59332, "AR .5": 0.85469, "AR .75": 0.65035, "AR (M)": 0.56561, "AR (L)": 0.63367}
+{"mode": "train", "epoch": 10, "iter": 100, "lr": 0.0005, "memory": 31896, "data_time": 0.09214, "heatmap_loss": 0.01829, "acc_pose": 0.58983, "loss": 0.01829, "time": 1.18903}
+{"mode": "train", "epoch": 10, "iter": 200, "lr": 0.0005, "memory": 31896, "data_time": 0.00071, "heatmap_loss": 0.01825, "acc_pose": 0.5895, "loss": 0.01825, "time": 1.09104}
+{"mode": "train", "epoch": 10, "iter": 300, "lr": 0.0005, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.01824, "acc_pose": 0.59095, "loss": 0.01824, "time": 1.09256}
+{"mode": "train", "epoch": 10, "iter": 400, "lr": 0.0005, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01832, "acc_pose": 0.59251, "loss": 0.01832, "time": 1.09025}
+{"mode": "train", "epoch": 10, "iter": 500, "lr": 0.0005, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01828, "acc_pose": 0.58949, "loss": 0.01828, "time": 1.09035}
+{"mode": "val", "epoch": 10, "iter": 25, "lr": 0.0005, "AP": 0.54819, "AP .5": 0.8309, "AP .75": 0.60248, "AP (M)": 0.52847, "AP (L)": 0.58048, "AR": 0.59035, "AR .5": 0.84855, "AR .75": 0.6461, "AR (M)": 0.56266, "AR (L)": 0.63092}
+{"mode": "train", "epoch": 11, "iter": 100, "lr": 0.0005, "memory": 31896, "data_time": 0.09526, "heatmap_loss": 0.01803, "acc_pose": 0.5949, "loss": 0.01803, "time": 1.19362}
+{"mode": "train", "epoch": 11, "iter": 200, "lr": 0.0005, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.01827, "acc_pose": 0.59171, "loss": 0.01827, "time": 1.09019}
+{"mode": "train", "epoch": 11, "iter": 300, "lr": 0.0005, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.0182, "acc_pose": 0.59067, "loss": 0.0182, "time": 1.09355}
+{"mode": "train", "epoch": 11, "iter": 400, "lr": 0.0005, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01811, "acc_pose": 0.59179, "loss": 0.01811, "time": 1.09234}
+{"mode": "train", "epoch": 11, "iter": 500, "lr": 0.0005, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.01828, "acc_pose": 0.5926, "loss": 0.01828, "time": 1.09067}
+{"mode": "val", "epoch": 11, "iter": 25, "lr": 0.0005, "AP": 0.54034, "AP .5": 0.82938, "AP .75": 0.60291, "AP (M)": 0.52103, "AP (L)": 0.57037, "AR": 0.58301, "AR .5": 0.84493, "AR .75": 0.64452, "AR (M)": 0.5555, "AR (L)": 0.62349}
+{"mode": "train", "epoch": 12, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09913, "heatmap_loss": 0.01777, "acc_pose": 0.60212, "loss": 0.01777, "time": 1.19498}
+{"mode": "train", "epoch": 12, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01757, "acc_pose": 0.60648, "loss": 0.01757, "time": 1.09211}
+{"mode": "train", "epoch": 12, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00091, "heatmap_loss": 0.01755, "acc_pose": 0.60835, "loss": 0.01755, "time": 1.09259}
+{"mode": "train", "epoch": 12, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01745, "acc_pose": 0.60976, "loss": 0.01745, "time": 1.09264}
+{"mode": "train", "epoch": 12, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01738, "acc_pose": 0.61152, "loss": 0.01738, "time": 1.09093}
+{"mode": "val", "epoch": 12, "iter": 25, "lr": 5e-05, "AP": 0.5748, "AP .5": 0.85255, "AP .75": 0.63633, "AP (M)": 0.55606, "AP (L)": 0.60313, "AR": 0.61398, "AR .5": 0.8654, "AR .75": 0.67664, "AR (M)": 0.58869, "AR (L)": 0.65106}
+{"mode": "train", "epoch": 13, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.0936, "heatmap_loss": 0.01734, "acc_pose": 0.61135, "loss": 0.01734, "time": 1.19305}
+{"mode": "train", "epoch": 13, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00065, "heatmap_loss": 0.01732, "acc_pose": 0.61294, "loss": 0.01732, "time": 1.09155}
+{"mode": "train", "epoch": 13, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00063, "heatmap_loss": 0.01729, "acc_pose": 0.61296, "loss": 0.01729, "time": 1.09605}
+{"mode": "train", "epoch": 13, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00064, "heatmap_loss": 0.01724, "acc_pose": 0.61225, "loss": 0.01724, "time": 1.09131}
+{"mode": "train", "epoch": 13, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.01726, "acc_pose": 0.61333, "loss": 0.01726, "time": 1.09221}
+{"mode": "val", "epoch": 13, "iter": 25, "lr": 5e-05, "AP": 0.57724, "AP .5": 0.85239, "AP .75": 0.63843, "AP (M)": 0.56012, "AP (L)": 0.60602, "AR": 0.61681, "AR .5": 0.86949, "AR .75": 0.67837, "AR (M)": 0.5912, "AR (L)": 0.65444}
+{"mode": "train", "epoch": 14, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09497, "heatmap_loss": 0.01727, "acc_pose": 0.61282, "loss": 0.01727, "time": 1.19299}
+{"mode": "train", "epoch": 14, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01709, "acc_pose": 0.61461, "loss": 0.01709, "time": 1.09475}
+{"mode": "train", "epoch": 14, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.01728, "acc_pose": 0.61295, "loss": 0.01728, "time": 1.09136}
+{"mode": "train", "epoch": 14, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00065, "heatmap_loss": 0.0173, "acc_pose": 0.61362, "loss": 0.0173, "time": 1.09175}
+{"mode": "train", "epoch": 14, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.0173, "acc_pose": 0.61492, "loss": 0.0173, "time": 1.09434}
+{"mode": "val", "epoch": 14, "iter": 25, "lr": 5e-05, "AP": 0.57833, "AP .5": 0.85276, "AP .75": 0.64495, "AP (M)": 0.56103, "AP (L)": 0.60507, "AR": 0.6179, "AR .5": 0.86886, "AR .75": 0.68057, "AR (M)": 0.59279, "AR (L)": 0.65489}
+{"mode": "train", "epoch": 15, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09509, "heatmap_loss": 0.01707, "acc_pose": 0.61518, "loss": 0.01707, "time": 1.19497}
+{"mode": "train", "epoch": 15, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00064, "heatmap_loss": 0.01719, "acc_pose": 0.61729, "loss": 0.01719, "time": 1.09353}
+{"mode": "train", "epoch": 15, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00064, "heatmap_loss": 0.01727, "acc_pose": 0.61453, "loss": 0.01727, "time": 1.0933}
+{"mode": "train", "epoch": 15, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01714, "acc_pose": 0.61846, "loss": 0.01714, "time": 1.09297}
+{"mode": "train", "epoch": 15, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.0171, "acc_pose": 0.61601, "loss": 0.0171, "time": 1.09051}
+{"mode": "val", "epoch": 15, "iter": 25, "lr": 5e-05, "AP": 0.58092, "AP .5": 0.86168, "AP .75": 0.64595, "AP (M)": 0.56453, "AP (L)": 0.60825, "AR": 0.62056, "AR .5": 0.87028, "AR .75": 0.68388, "AR (M)": 0.59582, "AR (L)": 0.65704}
+{"mode": "train", "epoch": 16, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09495, "heatmap_loss": 0.01701, "acc_pose": 0.61636, "loss": 0.01701, "time": 1.1952}
+{"mode": "train", "epoch": 16, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.0007, "heatmap_loss": 0.01703, "acc_pose": 0.61708, "loss": 0.01703, "time": 1.09089}
+{"mode": "train", "epoch": 16, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01703, "acc_pose": 0.61859, "loss": 0.01703, "time": 1.09584}
+{"mode": "train", "epoch": 16, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01716, "acc_pose": 0.61515, "loss": 0.01716, "time": 1.09204}
+{"mode": "train", "epoch": 16, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01707, "acc_pose": 0.61713, "loss": 0.01707, "time": 1.093}
+{"mode": "val", "epoch": 16, "iter": 25, "lr": 5e-05, "AP": 0.58226, "AP .5": 0.85255, "AP .75": 0.64827, "AP (M)": 0.5649, "AP (L)": 0.60998, "AR": 0.62144, "AR .5": 0.8698, "AR .75": 0.68624, "AR (M)": 0.59648, "AR (L)": 0.65838}
+{"mode": "train", "epoch": 17, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.08924, "heatmap_loss": 0.01707, "acc_pose": 0.61583, "loss": 0.01707, "time": 1.18598}
+{"mode": "train", "epoch": 17, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01712, "acc_pose": 0.61702, "loss": 0.01712, "time": 1.09417}
+{"mode": "train", "epoch": 17, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00064, "heatmap_loss": 0.01705, "acc_pose": 0.61798, "loss": 0.01705, "time": 1.09138}
+{"mode": "train", "epoch": 17, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01703, "acc_pose": 0.61909, "loss": 0.01703, "time": 1.09424}
+{"mode": "train", "epoch": 17, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.01695, "acc_pose": 0.62085, "loss": 0.01695, "time": 1.09178}
+{"mode": "val", "epoch": 17, "iter": 25, "lr": 5e-05, "AP": 0.58145, "AP .5": 0.86147, "AP .75": 0.64722, "AP (M)": 0.5634, "AP (L)": 0.6101, "AR": 0.6208, "AR .5": 0.87059, "AR .75": 0.68325, "AR (M)": 0.59418, "AR (L)": 0.65972}
+{"mode": "train", "epoch": 18, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09138, "heatmap_loss": 0.01693, "acc_pose": 0.62018, "loss": 0.01693, "time": 1.19094}
+{"mode": "train", "epoch": 18, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01707, "acc_pose": 0.61606, "loss": 0.01707, "time": 1.09393}
+{"mode": "train", "epoch": 18, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00071, "heatmap_loss": 0.01709, "acc_pose": 0.61728, "loss": 0.01709, "time": 1.09496}
+{"mode": "train", "epoch": 18, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00071, "heatmap_loss": 0.01698, "acc_pose": 0.61843, "loss": 0.01698, "time": 1.09274}
+{"mode": "train", "epoch": 18, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.0169, "acc_pose": 0.62161, "loss": 0.0169, "time": 1.09573}
+{"mode": "val", "epoch": 18, "iter": 25, "lr": 5e-05, "AP": 0.58157, "AP .5": 0.85259, "AP .75": 0.64876, "AP (M)": 0.56573, "AP (L)": 0.60973, "AR": 0.62169, "AR .5": 0.86965, "AR .75": 0.68734, "AR (M)": 0.59697, "AR (L)": 0.65838}
+{"mode": "train", "epoch": 19, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09366, "heatmap_loss": 0.01695, "acc_pose": 0.61926, "loss": 0.01695, "time": 1.19689}
+{"mode": "train", "epoch": 19, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01683, "acc_pose": 0.6208, "loss": 0.01683, "time": 1.09291}
+{"mode": "train", "epoch": 19, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00064, "heatmap_loss": 0.01701, "acc_pose": 0.61829, "loss": 0.01701, "time": 1.0957}
+{"mode": "train", "epoch": 19, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.0007, "heatmap_loss": 0.01706, "acc_pose": 0.6163, "loss": 0.01706, "time": 1.09266}
+{"mode": "train", "epoch": 19, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.0007, "heatmap_loss": 0.01696, "acc_pose": 0.62103, "loss": 0.01696, "time": 1.09513}
+{"mode": "val", "epoch": 19, "iter": 25, "lr": 5e-05, "AP": 0.58362, "AP .5": 0.86192, "AP .75": 0.64757, "AP (M)": 0.56525, "AP (L)": 0.60911, "AR": 0.62204, "AR .5": 0.87138, "AR .75": 0.6875, "AR (M)": 0.59675, "AR (L)": 0.65946}
+{"mode": "train", "epoch": 20, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09609, "heatmap_loss": 0.01684, "acc_pose": 0.62049, "loss": 0.01684, "time": 1.19597}
+{"mode": "train", "epoch": 20, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00071, "heatmap_loss": 0.017, "acc_pose": 0.62028, "loss": 0.017, "time": 1.09583}
+{"mode": "train", "epoch": 20, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01693, "acc_pose": 0.62117, "loss": 0.01693, "time": 1.09473}
+{"mode": "train", "epoch": 20, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01696, "acc_pose": 0.61958, "loss": 0.01696, "time": 1.09548}
+{"mode": "train", "epoch": 20, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00099, "heatmap_loss": 0.01686, "acc_pose": 0.6195, "loss": 0.01686, "time": 1.09502}
+{"mode": "val", "epoch": 20, "iter": 25, "lr": 5e-05, "AP": 0.58403, "AP .5": 0.86189, "AP .75": 0.6471, "AP (M)": 0.5649, "AP (L)": 0.61285, "AR": 0.62229, "AR .5": 0.87311, "AR .75": 0.68498, "AR (M)": 0.59615, "AR (L)": 0.66076}
+{"mode": "train", "epoch": 21, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.08953, "heatmap_loss": 0.01697, "acc_pose": 0.62118, "loss": 0.01697, "time": 1.19103}
+{"mode": "train", "epoch": 21, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01697, "acc_pose": 0.61936, "loss": 0.01697, "time": 1.09597}
+{"mode": "train", "epoch": 21, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00072, "heatmap_loss": 0.01686, "acc_pose": 0.62138, "loss": 0.01686, "time": 1.09563}
+{"mode": "train", "epoch": 21, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.017, "acc_pose": 0.61953, "loss": 0.017, "time": 1.09451}
+{"mode": "train", "epoch": 21, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00076, "heatmap_loss": 0.01679, "acc_pose": 0.6235, "loss": 0.01679, "time": 1.09653}
+{"mode": "val", "epoch": 21, "iter": 25, "lr": 5e-05, "AP": 0.58329, "AP .5": 0.86192, "AP .75": 0.64754, "AP (M)": 0.56461, "AP (L)": 0.61038, "AR": 0.62245, "AR .5": 0.87264, "AR .75": 0.68419, "AR (M)": 0.59672, "AR (L)": 0.66027}
+{"mode": "train", "epoch": 22, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09052, "heatmap_loss": 0.01689, "acc_pose": 0.61915, "loss": 0.01689, "time": 1.1957}
+{"mode": "train", "epoch": 22, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01691, "acc_pose": 0.62049, "loss": 0.01691, "time": 1.09554}
+{"mode": "train", "epoch": 22, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.01689, "acc_pose": 0.62131, "loss": 0.01689, "time": 1.09617}
+{"mode": "train", "epoch": 22, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00071, "heatmap_loss": 0.01692, "acc_pose": 0.62025, "loss": 0.01692, "time": 1.09421}
+{"mode": "train", "epoch": 22, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01706, "acc_pose": 0.61866, "loss": 0.01706, "time": 1.0972}
+{"mode": "val", "epoch": 22, "iter": 25, "lr": 5e-05, "AP": 0.58555, "AP .5": 0.86182, "AP .75": 0.6486, "AP (M)": 0.56836, "AP (L)": 0.61442, "AR": 0.62464, "AR .5": 0.87043, "AR .75": 0.68986, "AR (M)": 0.59907, "AR (L)": 0.66228}
+{"mode": "train", "epoch": 23, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.10201, "heatmap_loss": 0.01693, "acc_pose": 0.62126, "loss": 0.01693, "time": 1.20247}
+{"mode": "train", "epoch": 23, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01696, "acc_pose": 0.62201, "loss": 0.01696, "time": 1.0921}
+{"mode": "train", "epoch": 23, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01694, "acc_pose": 0.61986, "loss": 0.01694, "time": 1.09774}
+{"mode": "train", "epoch": 23, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01691, "acc_pose": 0.62002, "loss": 0.01691, "time": 1.09375}
+{"mode": "train", "epoch": 23, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00071, "heatmap_loss": 0.0168, "acc_pose": 0.62223, "loss": 0.0168, "time": 1.09651}
+{"mode": "val", "epoch": 23, "iter": 25, "lr": 5e-05, "AP": 0.585, "AP .5": 0.86136, "AP .75": 0.64843, "AP (M)": 0.56777, "AP (L)": 0.61341, "AR": 0.62385, "AR .5": 0.87059, "AR .75": 0.68939, "AR (M)": 0.59869, "AR (L)": 0.66139}
+{"mode": "train", "epoch": 24, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09825, "heatmap_loss": 0.0169, "acc_pose": 0.61996, "loss": 0.0169, "time": 1.2005}
+{"mode": "train", "epoch": 24, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00072, "heatmap_loss": 0.01675, "acc_pose": 0.62245, "loss": 0.01675, "time": 1.09249}
+{"mode": "train", "epoch": 24, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01695, "acc_pose": 0.62208, "loss": 0.01695, "time": 1.09487}
+{"mode": "train", "epoch": 24, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00072, "heatmap_loss": 0.01685, "acc_pose": 0.6218, "loss": 0.01685, "time": 1.09147}
+{"mode": "train", "epoch": 24, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01683, "acc_pose": 0.62516, "loss": 0.01683, "time": 1.09541}
+{"mode": "val", "epoch": 24, "iter": 25, "lr": 5e-05, "AP": 0.58771, "AP .5": 0.86241, "AP .75": 0.65831, "AP (M)": 0.56984, "AP (L)": 0.61776, "AR": 0.62653, "AR .5": 0.87311, "AR .75": 0.69285, "AR (M)": 0.60057, "AR (L)": 0.66473}
+{"mode": "train", "epoch": 25, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09401, "heatmap_loss": 0.01684, "acc_pose": 0.6221, "loss": 0.01684, "time": 1.19657}
+{"mode": "train", "epoch": 25, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01685, "acc_pose": 0.62269, "loss": 0.01685, "time": 1.09466}
+{"mode": "train", "epoch": 25, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01693, "acc_pose": 0.62165, "loss": 0.01693, "time": 1.0967}
+{"mode": "train", "epoch": 25, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01685, "acc_pose": 0.62323, "loss": 0.01685, "time": 1.0927}
+{"mode": "train", "epoch": 25, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.0007, "heatmap_loss": 0.01679, "acc_pose": 0.62118, "loss": 0.01679, "time": 1.09356}
+{"mode": "val", "epoch": 25, "iter": 25, "lr": 5e-05, "AP": 0.58536, "AP .5": 0.86162, "AP .75": 0.6573, "AP (M)": 0.5675, "AP (L)": 0.61413, "AR": 0.62456, "AR .5": 0.87248, "AR .75": 0.69112, "AR (M)": 0.5985, "AR (L)": 0.66325}
+{"mode": "train", "epoch": 26, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09213, "heatmap_loss": 0.01692, "acc_pose": 0.62135, "loss": 0.01692, "time": 1.19383}
+{"mode": "train", "epoch": 26, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00072, "heatmap_loss": 0.01679, "acc_pose": 0.62247, "loss": 0.01679, "time": 1.09425}
+{"mode": "train", "epoch": 26, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00065, "heatmap_loss": 0.01688, "acc_pose": 0.62446, "loss": 0.01688, "time": 1.09427}
+{"mode": "train", "epoch": 26, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01682, "acc_pose": 0.62246, "loss": 0.01682, "time": 1.09307}
+{"mode": "train", "epoch": 26, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.0007, "heatmap_loss": 0.01679, "acc_pose": 0.62257, "loss": 0.01679, "time": 1.09518}
+{"mode": "val", "epoch": 26, "iter": 25, "lr": 5e-05, "AP": 0.58657, "AP .5": 0.86225, "AP .75": 0.65656, "AP (M)": 0.56828, "AP (L)": 0.61796, "AR": 0.62538, "AR .5": 0.87122, "AR .75": 0.69458, "AR (M)": 0.59809, "AR (L)": 0.66551}
+{"mode": "train", "epoch": 27, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.08954, "heatmap_loss": 0.01683, "acc_pose": 0.6232, "loss": 0.01683, "time": 1.19346}
+{"mode": "train", "epoch": 27, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01674, "acc_pose": 0.62419, "loss": 0.01674, "time": 1.09465}
+{"mode": "train", "epoch": 27, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01672, "acc_pose": 0.62521, "loss": 0.01672, "time": 1.09804}
+{"mode": "train", "epoch": 27, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01689, "acc_pose": 0.6197, "loss": 0.01689, "time": 1.093}
+{"mode": "train", "epoch": 27, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00071, "heatmap_loss": 0.01678, "acc_pose": 0.62621, "loss": 0.01678, "time": 1.09715}
+{"mode": "val", "epoch": 27, "iter": 25, "lr": 5e-05, "AP": 0.58858, "AP .5": 0.86212, "AP .75": 0.6586, "AP (M)": 0.57, "AP (L)": 0.61768, "AR": 0.62694, "AR .5": 0.87232, "AR .75": 0.69364, "AR (M)": 0.6012, "AR (L)": 0.66496}
+{"mode": "train", "epoch": 28, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.10146, "heatmap_loss": 0.01683, "acc_pose": 0.62527, "loss": 0.01683, "time": 1.20386}
+{"mode": "train", "epoch": 28, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.0168, "acc_pose": 0.61929, "loss": 0.0168, "time": 1.09354}
+{"mode": "train", "epoch": 28, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01671, "acc_pose": 0.62563, "loss": 0.01671, "time": 1.09706}
+{"mode": "train", "epoch": 28, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01673, "acc_pose": 0.62274, "loss": 0.01673, "time": 1.09338}
+{"mode": "train", "epoch": 28, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00074, "heatmap_loss": 0.01692, "acc_pose": 0.6241, "loss": 0.01692, "time": 1.09759}
+{"mode": "val", "epoch": 28, "iter": 25, "lr": 5e-05, "AP": 0.59007, "AP .5": 0.86255, "AP .75": 0.65773, "AP (M)": 0.57142, "AP (L)": 0.61811, "AR": 0.62785, "AR .5": 0.87453, "AR .75": 0.69254, "AR (M)": 0.60158, "AR (L)": 0.66644}
+{"mode": "train", "epoch": 29, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09638, "heatmap_loss": 0.01672, "acc_pose": 0.62525, "loss": 0.01672, "time": 1.19985}
+{"mode": "train", "epoch": 29, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00072, "heatmap_loss": 0.01658, "acc_pose": 0.62596, "loss": 0.01658, "time": 1.09518}
+{"mode": "train", "epoch": 29, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01681, "acc_pose": 0.62445, "loss": 0.01681, "time": 1.09813}
+{"mode": "train", "epoch": 29, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00074, "heatmap_loss": 0.01685, "acc_pose": 0.62496, "loss": 0.01685, "time": 1.09486}
+{"mode": "train", "epoch": 29, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01681, "acc_pose": 0.62183, "loss": 0.01681, "time": 1.09777}
+{"mode": "val", "epoch": 29, "iter": 25, "lr": 5e-05, "AP": 0.58753, "AP .5": 0.86225, "AP .75": 0.65761, "AP (M)": 0.56882, "AP (L)": 0.61823, "AR": 0.6269, "AR .5": 0.87531, "AR .75": 0.69332, "AR (M)": 0.6003, "AR (L)": 0.66618}
+{"mode": "train", "epoch": 30, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09833, "heatmap_loss": 0.01682, "acc_pose": 0.62388, "loss": 0.01682, "time": 1.19791}
+{"mode": "train", "epoch": 30, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00072, "heatmap_loss": 0.01679, "acc_pose": 0.62228, "loss": 0.01679, "time": 1.09833}
+{"mode": "train", "epoch": 30, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01668, "acc_pose": 0.62453, "loss": 0.01668, "time": 1.0945}
+{"mode": "train", "epoch": 30, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00071, "heatmap_loss": 0.01666, "acc_pose": 0.62418, "loss": 0.01666, "time": 1.0957}
+{"mode": "train", "epoch": 30, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00073, "heatmap_loss": 0.01674, "acc_pose": 0.622, "loss": 0.01674, "time": 1.09815}
+{"mode": "val", "epoch": 30, "iter": 25, "lr": 5e-05, "AP": 0.58833, "AP .5": 0.86248, "AP .75": 0.65743, "AP (M)": 0.57109, "AP (L)": 0.61715, "AR": 0.62774, "AR .5": 0.87437, "AR .75": 0.69348, "AR (M)": 0.60232, "AR (L)": 0.66537}
+{"mode": "train", "epoch": 31, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.08991, "heatmap_loss": 0.01679, "acc_pose": 0.62276, "loss": 0.01679, "time": 1.19252}
+{"mode": "train", "epoch": 31, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.0007, "heatmap_loss": 0.01669, "acc_pose": 0.62165, "loss": 0.01669, "time": 1.09949}
+{"mode": "train", "epoch": 31, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00065, "heatmap_loss": 0.01683, "acc_pose": 0.62425, "loss": 0.01683, "time": 1.09444}
+{"mode": "train", "epoch": 31, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01668, "acc_pose": 0.62482, "loss": 0.01668, "time": 1.09636}
+{"mode": "train", "epoch": 31, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00073, "heatmap_loss": 0.01663, "acc_pose": 0.62759, "loss": 0.01663, "time": 1.09761}
+{"mode": "val", "epoch": 31, "iter": 25, "lr": 5e-05, "AP": 0.59008, "AP .5": 0.86257, "AP .75": 0.65831, "AP (M)": 0.56963, "AP (L)": 0.62071, "AR": 0.62889, "AR .5": 0.875, "AR .75": 0.69584, "AR (M)": 0.60139, "AR (L)": 0.6689}
+{"mode": "train", "epoch": 32, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.0988, "heatmap_loss": 0.01664, "acc_pose": 0.62283, "loss": 0.01664, "time": 1.20049}
+{"mode": "train", "epoch": 32, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01672, "acc_pose": 0.62501, "loss": 0.01672, "time": 1.09422}
+{"mode": "train", "epoch": 32, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01669, "acc_pose": 0.62591, "loss": 0.01669, "time": 1.09335}
+{"mode": "train", "epoch": 32, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01672, "acc_pose": 0.62425, "loss": 0.01672, "time": 1.09857}
+{"mode": "train", "epoch": 32, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.01677, "acc_pose": 0.62445, "loss": 0.01677, "time": 1.09323}
+{"mode": "val", "epoch": 32, "iter": 25, "lr": 5e-05, "AP": 0.58988, "AP .5": 0.86214, "AP .75": 0.65805, "AP (M)": 0.57018, "AP (L)": 0.61903, "AR": 0.62917, "AR .5": 0.87453, "AR .75": 0.69616, "AR (M)": 0.60273, "AR (L)": 0.66823}
+{"mode": "train", "epoch": 33, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.0918, "heatmap_loss": 0.01672, "acc_pose": 0.62461, "loss": 0.01672, "time": 1.19221}
+{"mode": "train", "epoch": 33, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01679, "acc_pose": 0.62391, "loss": 0.01679, "time": 1.09646}
+{"mode": "train", "epoch": 33, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01678, "acc_pose": 0.62286, "loss": 0.01678, "time": 1.09733}
+{"mode": "train", "epoch": 33, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01655, "acc_pose": 0.62832, "loss": 0.01655, "time": 1.09469}
+{"mode": "train", "epoch": 33, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01654, "acc_pose": 0.62599, "loss": 0.01654, "time": 1.09426}
+{"mode": "val", "epoch": 33, "iter": 25, "lr": 5e-05, "AP": 0.59056, "AP .5": 0.86189, "AP .75": 0.65909, "AP (M)": 0.57256, "AP (L)": 0.62015, "AR": 0.62914, "AR .5": 0.87406, "AR .75": 0.69695, "AR (M)": 0.60314, "AR (L)": 0.66748}
+{"mode": "train", "epoch": 34, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.08926, "heatmap_loss": 0.01665, "acc_pose": 0.62518, "loss": 0.01665, "time": 1.18992}
+{"mode": "train", "epoch": 34, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01669, "acc_pose": 0.62384, "loss": 0.01669, "time": 1.09796}
+{"mode": "train", "epoch": 34, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.0007, "heatmap_loss": 0.01662, "acc_pose": 0.62845, "loss": 0.01662, "time": 1.09465}
+{"mode": "train", "epoch": 34, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.01672, "acc_pose": 0.62571, "loss": 0.01672, "time": 1.09393}
+{"mode": "train", "epoch": 34, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00073, "heatmap_loss": 0.0168, "acc_pose": 0.62487, "loss": 0.0168, "time": 1.09819}
+{"mode": "val", "epoch": 34, "iter": 25, "lr": 5e-05, "AP": 0.58967, "AP .5": 0.86207, "AP .75": 0.65899, "AP (M)": 0.57239, "AP (L)": 0.62081, "AR": 0.62919, "AR .5": 0.87374, "AR .75": 0.69726, "AR (M)": 0.60268, "AR (L)": 0.66819}
+{"mode": "train", "epoch": 35, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09024, "heatmap_loss": 0.01676, "acc_pose": 0.62465, "loss": 0.01676, "time": 1.19646}
+{"mode": "train", "epoch": 35, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01683, "acc_pose": 0.62521, "loss": 0.01683, "time": 1.09466}
+{"mode": "train", "epoch": 35, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00064, "heatmap_loss": 0.0166, "acc_pose": 0.62697, "loss": 0.0166, "time": 1.09287}
+{"mode": "train", "epoch": 35, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01665, "acc_pose": 0.6245, "loss": 0.01665, "time": 1.0967}
+{"mode": "train", "epoch": 35, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01656, "acc_pose": 0.62565, "loss": 0.01656, "time": 1.09319}
+{"mode": "val", "epoch": 35, "iter": 25, "lr": 5e-05, "AP": 0.59008, "AP .5": 0.86199, "AP .75": 0.65925, "AP (M)": 0.57168, "AP (L)": 0.62013, "AR": 0.62916, "AR .5": 0.87437, "AR .75": 0.69616, "AR (M)": 0.60251, "AR (L)": 0.66871}
+{"mode": "train", "epoch": 36, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09478, "heatmap_loss": 0.01662, "acc_pose": 0.62659, "loss": 0.01662, "time": 1.1943}
+{"mode": "train", "epoch": 36, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01661, "acc_pose": 0.6258, "loss": 0.01661, "time": 1.09584}
+{"mode": "train", "epoch": 36, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00072, "heatmap_loss": 0.01661, "acc_pose": 0.62652, "loss": 0.01661, "time": 1.09817}
+{"mode": "train", "epoch": 36, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00071, "heatmap_loss": 0.01665, "acc_pose": 0.62752, "loss": 0.01665, "time": 1.09531}
+{"mode": "train", "epoch": 36, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.0007, "heatmap_loss": 0.01668, "acc_pose": 0.62665, "loss": 0.01668, "time": 1.09353}
+{"mode": "val", "epoch": 36, "iter": 25, "lr": 5e-05, "AP": 0.59148, "AP .5": 0.8621, "AP .75": 0.65849, "AP (M)": 0.57365, "AP (L)": 0.62066, "AR": 0.62966, "AR .5": 0.87437, "AR .75": 0.69364, "AR (M)": 0.6032, "AR (L)": 0.66882}
+{"mode": "train", "epoch": 37, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09129, "heatmap_loss": 0.01666, "acc_pose": 0.62532, "loss": 0.01666, "time": 1.1914}
+{"mode": "train", "epoch": 37, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01661, "acc_pose": 0.62695, "loss": 0.01661, "time": 1.09717}
+{"mode": "train", "epoch": 37, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01674, "acc_pose": 0.62553, "loss": 0.01674, "time": 1.0931}
+{"mode": "train", "epoch": 37, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01654, "acc_pose": 0.62665, "loss": 0.01654, "time": 1.09512}
+{"mode": "train", "epoch": 37, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01669, "acc_pose": 0.62654, "loss": 0.01669, "time": 1.09717}
+{"mode": "val", "epoch": 37, "iter": 25, "lr": 5e-05, "AP": 0.59196, "AP .5": 0.86238, "AP .75": 0.65824, "AP (M)": 0.57195, "AP (L)": 0.62095, "AR": 0.63034, "AR .5": 0.87579, "AR .75": 0.69427, "AR (M)": 0.60339, "AR (L)": 0.67005}
+{"mode": "train", "epoch": 38, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09136, "heatmap_loss": 0.01666, "acc_pose": 0.62866, "loss": 0.01666, "time": 1.19599}
+{"mode": "train", "epoch": 38, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00071, "heatmap_loss": 0.01667, "acc_pose": 0.62653, "loss": 0.01667, "time": 1.09288}
+{"mode": "train", "epoch": 38, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01663, "acc_pose": 0.62876, "loss": 0.01663, "time": 1.09462}
+{"mode": "train", "epoch": 38, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.0007, "heatmap_loss": 0.01669, "acc_pose": 0.62482, "loss": 0.01669, "time": 1.09738}
+{"mode": "train", "epoch": 38, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01662, "acc_pose": 0.62628, "loss": 0.01662, "time": 1.09382}
+{"mode": "val", "epoch": 38, "iter": 25, "lr": 5e-05, "AP": 0.58926, "AP .5": 0.8617, "AP .75": 0.65782, "AP (M)": 0.57245, "AP (L)": 0.61929, "AR": 0.62944, "AR .5": 0.87516, "AR .75": 0.69569, "AR (M)": 0.60352, "AR (L)": 0.66782}
+{"mode": "train", "epoch": 39, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09705, "heatmap_loss": 0.01671, "acc_pose": 0.62563, "loss": 0.01671, "time": 1.19962}
+{"mode": "train", "epoch": 39, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.0007, "heatmap_loss": 0.01671, "acc_pose": 0.62501, "loss": 0.01671, "time": 1.09616}
+{"mode": "train", "epoch": 39, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01665, "acc_pose": 0.62862, "loss": 0.01665, "time": 1.09599}
+{"mode": "train", "epoch": 39, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.0007, "heatmap_loss": 0.01655, "acc_pose": 0.62774, "loss": 0.01655, "time": 1.09436}
+{"mode": "train", "epoch": 39, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.0007, "heatmap_loss": 0.01668, "acc_pose": 0.62671, "loss": 0.01668, "time": 1.09643}
+{"mode": "val", "epoch": 39, "iter": 25, "lr": 5e-05, "AP": 0.59177, "AP .5": 0.86215, "AP .75": 0.65836, "AP (M)": 0.5736, "AP (L)": 0.62088, "AR": 0.63065, "AR .5": 0.87469, "AR .75": 0.696, "AR (M)": 0.60473, "AR (L)": 0.66949}
+{"mode": "train", "epoch": 40, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09574, "heatmap_loss": 0.01658, "acc_pose": 0.62515, "loss": 0.01658, "time": 1.19756}
+{"mode": "train", "epoch": 40, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01668, "acc_pose": 0.62596, "loss": 0.01668, "time": 1.09437}
+{"mode": "train", "epoch": 40, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00065, "heatmap_loss": 0.01664, "acc_pose": 0.62763, "loss": 0.01664, "time": 1.09253}
+{"mode": "train", "epoch": 40, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.01656, "acc_pose": 0.63046, "loss": 0.01656, "time": 1.09596}
+{"mode": "train", "epoch": 40, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.0007, "heatmap_loss": 0.01661, "acc_pose": 0.62636, "loss": 0.01661, "time": 1.09642}
+{"mode": "val", "epoch": 40, "iter": 25, "lr": 5e-05, "AP": 0.59322, "AP .5": 0.86204, "AP .75": 0.65979, "AP (M)": 0.57532, "AP (L)": 0.62112, "AR": 0.63216, "AR .5": 0.87516, "AR .75": 0.69978, "AR (M)": 0.60642, "AR (L)": 0.67035}
+{"mode": "train", "epoch": 41, "iter": 100, "lr": 5e-05, "memory": 31896, "data_time": 0.09296, "heatmap_loss": 0.01652, "acc_pose": 0.62933, "loss": 0.01652, "time": 1.19314}
+{"mode": "train", "epoch": 41, "iter": 200, "lr": 5e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01672, "acc_pose": 0.62656, "loss": 0.01672, "time": 1.09786}
+{"mode": "train", "epoch": 41, "iter": 300, "lr": 5e-05, "memory": 31896, "data_time": 0.00064, "heatmap_loss": 0.01644, "acc_pose": 0.63152, "loss": 0.01644, "time": 1.09474}
+{"mode": "train", "epoch": 41, "iter": 400, "lr": 5e-05, "memory": 31896, "data_time": 0.00065, "heatmap_loss": 0.01661, "acc_pose": 0.62706, "loss": 0.01661, "time": 1.09444}
+{"mode": "train", "epoch": 41, "iter": 500, "lr": 5e-05, "memory": 31896, "data_time": 0.00071, "heatmap_loss": 0.01657, "acc_pose": 0.62784, "loss": 0.01657, "time": 1.09631}
+{"mode": "val", "epoch": 41, "iter": 25, "lr": 5e-05, "AP": 0.59287, "AP .5": 0.86247, "AP .75": 0.65944, "AP (M)": 0.5746, "AP (L)": 0.62371, "AR": 0.63224, "AR .5": 0.87657, "AR .75": 0.69852, "AR (M)": 0.60579, "AR (L)": 0.67153}
+{"mode": "train", "epoch": 42, "iter": 100, "lr": 1e-05, "memory": 31896, "data_time": 0.09254, "heatmap_loss": 0.01652, "acc_pose": 0.62715, "loss": 0.01652, "time": 1.19742}
+{"mode": "train", "epoch": 42, "iter": 200, "lr": 1e-05, "memory": 31896, "data_time": 0.00071, "heatmap_loss": 0.01648, "acc_pose": 0.63055, "loss": 0.01648, "time": 1.09499}
+{"mode": "train", "epoch": 42, "iter": 300, "lr": 1e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01643, "acc_pose": 0.62946, "loss": 0.01643, "time": 1.09755}
+{"mode": "train", "epoch": 42, "iter": 400, "lr": 1e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01659, "acc_pose": 0.62954, "loss": 0.01659, "time": 1.0943}
+{"mode": "train", "epoch": 42, "iter": 500, "lr": 1e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01664, "acc_pose": 0.62799, "loss": 0.01664, "time": 1.09345}
+{"mode": "val", "epoch": 42, "iter": 25, "lr": 1e-05, "AP": 0.59397, "AP .5": 0.86272, "AP .75": 0.65879, "AP (M)": 0.57411, "AP (L)": 0.62431, "AR": 0.63298, "AR .5": 0.87752, "AR .75": 0.69726, "AR (M)": 0.60612, "AR (L)": 0.67291}
+{"mode": "train", "epoch": 43, "iter": 100, "lr": 1e-05, "memory": 31896, "data_time": 0.09064, "heatmap_loss": 0.01642, "acc_pose": 0.63144, "loss": 0.01642, "time": 1.19138}
+{"mode": "train", "epoch": 43, "iter": 200, "lr": 1e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01651, "acc_pose": 0.62821, "loss": 0.01651, "time": 1.09825}
+{"mode": "train", "epoch": 43, "iter": 300, "lr": 1e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01654, "acc_pose": 0.62986, "loss": 0.01654, "time": 1.09505}
+{"mode": "train", "epoch": 43, "iter": 400, "lr": 1e-05, "memory": 31896, "data_time": 0.0007, "heatmap_loss": 0.01645, "acc_pose": 0.62937, "loss": 0.01645, "time": 1.0977}
+{"mode": "train", "epoch": 43, "iter": 500, "lr": 1e-05, "memory": 31896, "data_time": 0.00074, "heatmap_loss": 0.01647, "acc_pose": 0.63094, "loss": 0.01647, "time": 1.09382}
+{"mode": "val", "epoch": 43, "iter": 25, "lr": 1e-05, "AP": 0.59388, "AP .5": 0.86259, "AP .75": 0.65889, "AP (M)": 0.57423, "AP (L)": 0.62349, "AR": 0.6327, "AR .5": 0.87689, "AR .75": 0.69584, "AR (M)": 0.60634, "AR (L)": 0.67202}
+{"mode": "train", "epoch": 44, "iter": 100, "lr": 1e-05, "memory": 31896, "data_time": 0.09112, "heatmap_loss": 0.01643, "acc_pose": 0.63067, "loss": 0.01643, "time": 1.19045}
+{"mode": "train", "epoch": 44, "iter": 200, "lr": 1e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01656, "acc_pose": 0.62819, "loss": 0.01656, "time": 1.09624}
+{"mode": "train", "epoch": 44, "iter": 300, "lr": 1e-05, "memory": 31896, "data_time": 0.00065, "heatmap_loss": 0.01663, "acc_pose": 0.62765, "loss": 0.01663, "time": 1.09152}
+{"mode": "train", "epoch": 44, "iter": 400, "lr": 1e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01652, "acc_pose": 0.62832, "loss": 0.01652, "time": 1.09161}
+{"mode": "train", "epoch": 44, "iter": 500, "lr": 1e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01653, "acc_pose": 0.63034, "loss": 0.01653, "time": 1.09676}
+{"mode": "val", "epoch": 44, "iter": 25, "lr": 1e-05, "AP": 0.59356, "AP .5": 0.86238, "AP .75": 0.65882, "AP (M)": 0.57396, "AP (L)": 0.62459, "AR": 0.63275, "AR .5": 0.87673, "AR .75": 0.69758, "AR (M)": 0.6059, "AR (L)": 0.67269}
+{"mode": "train", "epoch": 45, "iter": 100, "lr": 1e-05, "memory": 31896, "data_time": 0.09281, "heatmap_loss": 0.01652, "acc_pose": 0.63022, "loss": 0.01652, "time": 1.1953}
+{"mode": "train", "epoch": 45, "iter": 200, "lr": 1e-05, "memory": 31896, "data_time": 0.00071, "heatmap_loss": 0.01647, "acc_pose": 0.62855, "loss": 0.01647, "time": 1.09392}
+{"mode": "train", "epoch": 45, "iter": 300, "lr": 1e-05, "memory": 31896, "data_time": 0.0007, "heatmap_loss": 0.01661, "acc_pose": 0.63111, "loss": 0.01661, "time": 1.09618}
+{"mode": "train", "epoch": 45, "iter": 400, "lr": 1e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01648, "acc_pose": 0.62953, "loss": 0.01648, "time": 1.09296}
+{"mode": "train", "epoch": 45, "iter": 500, "lr": 1e-05, "memory": 31896, "data_time": 0.0007, "heatmap_loss": 0.01648, "acc_pose": 0.62959, "loss": 0.01648, "time": 1.09708}
+{"mode": "val", "epoch": 45, "iter": 25, "lr": 1e-05, "AP": 0.59428, "AP .5": 0.86248, "AP .75": 0.65942, "AP (M)": 0.57453, "AP (L)": 0.62388, "AR": 0.63284, "AR .5": 0.87642, "AR .75": 0.69773, "AR (M)": 0.60595, "AR (L)": 0.67287}
+{"mode": "train", "epoch": 46, "iter": 100, "lr": 1e-05, "memory": 31896, "data_time": 0.09513, "heatmap_loss": 0.01654, "acc_pose": 0.63062, "loss": 0.01654, "time": 1.19828}
+{"mode": "train", "epoch": 46, "iter": 200, "lr": 1e-05, "memory": 31896, "data_time": 0.00074, "heatmap_loss": 0.01657, "acc_pose": 0.62701, "loss": 0.01657, "time": 1.09372}
+{"mode": "train", "epoch": 46, "iter": 300, "lr": 1e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01642, "acc_pose": 0.63218, "loss": 0.01642, "time": 1.09762}
+{"mode": "train", "epoch": 46, "iter": 400, "lr": 1e-05, "memory": 31896, "data_time": 0.0007, "heatmap_loss": 0.01648, "acc_pose": 0.62786, "loss": 0.01648, "time": 1.09396}
+{"mode": "train", "epoch": 46, "iter": 500, "lr": 1e-05, "memory": 31896, "data_time": 0.00073, "heatmap_loss": 0.01647, "acc_pose": 0.62925, "loss": 0.01647, "time": 1.09652}
+{"mode": "val", "epoch": 46, "iter": 25, "lr": 1e-05, "AP": 0.59471, "AP .5": 0.86256, "AP .75": 0.65944, "AP (M)": 0.57537, "AP (L)": 0.62546, "AR": 0.63358, "AR .5": 0.87689, "AR .75": 0.69773, "AR (M)": 0.60656, "AR (L)": 0.67369}
+{"mode": "train", "epoch": 47, "iter": 100, "lr": 1e-05, "memory": 31896, "data_time": 0.09021, "heatmap_loss": 0.01647, "acc_pose": 0.63054, "loss": 0.01647, "time": 1.19473}
+{"mode": "train", "epoch": 47, "iter": 200, "lr": 1e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01666, "acc_pose": 0.62911, "loss": 0.01666, "time": 1.0939}
+{"mode": "train", "epoch": 47, "iter": 300, "lr": 1e-05, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.01633, "acc_pose": 0.63208, "loss": 0.01633, "time": 1.09337}
+{"mode": "train", "epoch": 47, "iter": 400, "lr": 1e-05, "memory": 31896, "data_time": 0.0007, "heatmap_loss": 0.01651, "acc_pose": 0.63045, "loss": 0.01651, "time": 1.09748}
+{"mode": "train", "epoch": 47, "iter": 500, "lr": 1e-05, "memory": 31896, "data_time": 0.00065, "heatmap_loss": 0.01644, "acc_pose": 0.62835, "loss": 0.01644, "time": 1.09285}
+{"mode": "val", "epoch": 47, "iter": 25, "lr": 1e-05, "AP": 0.59457, "AP .5": 0.86278, "AP .75": 0.6603, "AP (M)": 0.57537, "AP (L)": 0.62717, "AR": 0.63371, "AR .5": 0.87531, "AR .75": 0.69962, "AR (M)": 0.60636, "AR (L)": 0.67443}
+{"mode": "train", "epoch": 48, "iter": 100, "lr": 1e-05, "memory": 31896, "data_time": 0.09449, "heatmap_loss": 0.01647, "acc_pose": 0.63063, "loss": 0.01647, "time": 1.19345}
+{"mode": "train", "epoch": 48, "iter": 200, "lr": 1e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01644, "acc_pose": 0.63056, "loss": 0.01644, "time": 1.09716}
+{"mode": "train", "epoch": 48, "iter": 300, "lr": 1e-05, "memory": 31896, "data_time": 0.00064, "heatmap_loss": 0.01642, "acc_pose": 0.62966, "loss": 0.01642, "time": 1.09302}
+{"mode": "train", "epoch": 48, "iter": 400, "lr": 1e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01662, "acc_pose": 0.62919, "loss": 0.01662, "time": 1.09665}
+{"mode": "train", "epoch": 48, "iter": 500, "lr": 1e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01656, "acc_pose": 0.62949, "loss": 0.01656, "time": 1.09315}
+{"mode": "val", "epoch": 48, "iter": 25, "lr": 1e-05, "AP": 0.59445, "AP .5": 0.86267, "AP .75": 0.65946, "AP (M)": 0.57464, "AP (L)": 0.625, "AR": 0.63399, "AR .5": 0.87783, "AR .75": 0.69726, "AR (M)": 0.60746, "AR (L)": 0.67328}
+{"mode": "train", "epoch": 49, "iter": 100, "lr": 1e-05, "memory": 31896, "data_time": 0.08827, "heatmap_loss": 0.01646, "acc_pose": 0.63079, "loss": 0.01646, "time": 1.18858}
+{"mode": "train", "epoch": 49, "iter": 200, "lr": 1e-05, "memory": 31896, "data_time": 0.00071, "heatmap_loss": 0.01649, "acc_pose": 0.6276, "loss": 0.01649, "time": 1.09531}
+{"mode": "train", "epoch": 49, "iter": 300, "lr": 1e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01639, "acc_pose": 0.63162, "loss": 0.01639, "time": 1.09188}
+{"mode": "train", "epoch": 49, "iter": 400, "lr": 1e-05, "memory": 31896, "data_time": 0.0007, "heatmap_loss": 0.01641, "acc_pose": 0.63216, "loss": 0.01641, "time": 1.09799}
+{"mode": "train", "epoch": 49, "iter": 500, "lr": 1e-05, "memory": 31896, "data_time": 0.00067, "heatmap_loss": 0.01652, "acc_pose": 0.6293, "loss": 0.01652, "time": 1.09268}
+{"mode": "val", "epoch": 49, "iter": 25, "lr": 1e-05, "AP": 0.59465, "AP .5": 0.86257, "AP .75": 0.65978, "AP (M)": 0.57641, "AP (L)": 0.62505, "AR": 0.63401, "AR .5": 0.87705, "AR .75": 0.69978, "AR (M)": 0.60778, "AR (L)": 0.67313}
+{"mode": "train", "epoch": 50, "iter": 100, "lr": 1e-05, "memory": 31896, "data_time": 0.09085, "heatmap_loss": 0.01639, "acc_pose": 0.63135, "loss": 0.01639, "time": 1.19062}
+{"mode": "train", "epoch": 50, "iter": 200, "lr": 1e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.0165, "acc_pose": 0.62919, "loss": 0.0165, "time": 1.09522}
+{"mode": "train", "epoch": 50, "iter": 300, "lr": 1e-05, "memory": 31896, "data_time": 0.00066, "heatmap_loss": 0.01648, "acc_pose": 0.62977, "loss": 0.01648, "time": 1.09167}
+{"mode": "train", "epoch": 50, "iter": 400, "lr": 1e-05, "memory": 31896, "data_time": 0.00068, "heatmap_loss": 0.01649, "acc_pose": 0.63044, "loss": 0.01649, "time": 1.09539}
+{"mode": "train", "epoch": 50, "iter": 500, "lr": 1e-05, "memory": 31896, "data_time": 0.00069, "heatmap_loss": 0.01659, "acc_pose": 0.63076, "loss": 0.01659, "time": 1.09305}
+{"mode": "val", "epoch": 50, "iter": 25, "lr": 1e-05, "AP": 0.59483, "AP .5": 0.8628, "AP .75": 0.66034, "AP (M)": 0.57673, "AP (L)": 0.62414, "AR": 0.63393, "AR .5": 0.87799, "AR .75": 0.69868, "AR (M)": 0.60762, "AR (L)": 0.67313}
