@@ -1,6 +1,6 @@
-### README FILE FOR EECS504 Project -  Human Pose Estimation Using Vision Transformers
+### Human Pose Estimation Using Vision Transformers
 
-# WARNING!!! NETWORK WEIGHTS TRAINED CPM AND VITPOSE HAVE BEEN REMOVED FOR CANVAS SUBMISSION DUE TO FILE SIZE LIMITATIONS. ALL NETWORK WEIGHT FILES COMBINED TAKE UP MULTIPLE GB WORTH OF DATA!!!
+# Note: petwork weights for trained CPM and ViTPose have been removed due to size limitations.
 
 This main folder contains our project files. We used the mmpose toolbox to assist us with training (setting optimizer, dataloader function,etc..) while we designed the backbone models of vision transformers and convolutional pose machines. The models training and validation codes are located in the "cpm" and "vitpose" folders. More information is shown below for each folder.
 
