@@ -6,7 +6,7 @@ This main folder contains our project files. We used the mmpose toolbox to assis
 
 #-----------------------------------------------------------------------------------------------------------------------------------
 
-# FOLDER "cpm" - CONVOLUTIONAL POSE MACHINE
+# Folder "cpm" - Convolutional Pose Machine
 This contains all code to train CPM model. There are two Jupyter notebooks, one for tiny COCO called "cpm_method (tiny coco)" to figure out debugging issues as we built the model, and one for the full coco dataset. For this file, the coco data loader is provided by mmpose toolbox so our contribution is the backbone section of the notebook, this is the actual design of the network. After this, the config is downloaded from our google drive folder that specifies parameters like optimization method, number of stages in CPM etc... This is also our contribution since changes are made to compare ViTPose as close as possible. Thereafter, training is done by calling the trainmodel mmpose function.
 
 # Folder "vitpose" - ViTPose
