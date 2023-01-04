@@ -15,9 +15,6 @@ There are two jupyter notebooks here, one associated with our half model and the
 # Folder "inference" - test images
 We saved our model output weights for the final epoch in the "inference" folder. In the "inference" folder, we can find the inference code for CPM and ViTPose located in the "./inference/cpm/" and "./inference/vitpose/" folders, respectively. The images we used can be found in the  "./inference/test images/" and the inference output of these images can be found in the "./inference/result images/" folder. To run inference on a new image, one needs to change add the image to the colab notebook files and change the "img" variable in the code to the path leading to the added image. For the inference notebooks, we use an mmpose skeleton code for RCNN network pose estimation and adapt it for our networks by providing our backbone code, network weights, config file, etc.. 
 
-# Folder "papers" 
-In this folder location, we have the two published papers on convolution pose machines and vitpose network. Moreover, we have stored our report paper and our presentation given in person.
-
 # Folder "training logs"
 Our training history is stored in the "training logs" folder. There, one can find the logs from the training for the models CPM, ViTPose (6 layers) and ViTPose (12 layers). These are stored in json files. For each model that we trained, we have a plots jupyter notebook file that reads in the json training files and plots training/validation accuracy over the epochs. We saved the pdf plot of accuracy in each respective folder and these plots are provided in the report.
 #----------------------------------------------------------------------------------------------------------------------------------------------
