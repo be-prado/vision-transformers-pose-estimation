@@ -1,8 +1,8 @@
-### Human Pose Estimation Using Vision Transformers
+# Human Pose Estimation Using Vision Transformers
 
 <img src="https://user-images.githubusercontent.com/85589562/211017426-f872dbfb-76f9-4b6e-9074-11dbaf9c892e.png" alt="drawing" width="400"/> <img src="https://user-images.githubusercontent.com/85589562/211017451-a466a6d9-6fd9-4fe1-9c9c-3bae7bc49c3e.png" alt="drawing" width="400"/> <img src="https://user-images.githubusercontent.com/85589562/211017484-43bad02a-9183-4043-8402-28cd49c68786.png" alt="drawing" width="200"/>
 
-# Note: petwork weights for trained CPM and ViTPose have been removed due to size limitations.
+## Note: petwork weights for trained CPM and ViTPose have been removed due to size limitations.
 
 This main folder contains our project files. We used the mmpose toolbox to assist us with training (setting optimizer, dataloader function,etc..) while we designed the backbone models of vision transformers and convolutional pose machines. The models training and validation codes are located in the "cpm" and "vitpose" folders. More information is shown below for each folder.
 
