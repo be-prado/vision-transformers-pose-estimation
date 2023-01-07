@@ -6,7 +6,7 @@ In this project, we implemented vision transformers (ViTPose) and convolutional 
 
 ## Note: petwork weights for trained CPM and ViTPose have been removed due to size limitations.
 
-This main folder contains our project files. We used the mmpose toolbox to assist us with training (setting optimizer, dataloader function,etc..) while we designed the backbone models of vision transformers and convolutional pose machines. The models training and validation codes are located in the "cpm" and "vitpose" folders. More information is shown below for each folder.
+This repository contains our project files. We used the mmpose toolbox to assist us with training (setting optimizer, dataloader function,etc..) while we designed the backbone models of vision transformers and convolutional pose machines. The models training and validation codes are located in the "cpm" and "vitpose" folders. More information is shown below for each folder.
 
 #-----------------------------------------------------------------------------------------------------------------------------------
 
