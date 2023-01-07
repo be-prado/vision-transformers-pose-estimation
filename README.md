@@ -1,5 +1,7 @@
 # Human Pose Estimation Using Vision Transformers
 
+In this project, we implemented vision transformers (ViTPose) and convolutional pose machines (CPM) for the task of pose estimation. We trained our model on the COCO dataset and experimented with the number of layers in the vision transformer model to see if we could get good results with a smaller scale model. For CPM, we achieved a mAP of 59.5, with a half-sized ViTPose model, we achieved a mAP of 67.1, and with a full sized ViTPose, we achieved a mAP of 71.0. Below are some examples of our model performances and a guide to use this repository. For curious visitors, the report file describes the models and our results in detail!
+
 <img src="https://user-images.githubusercontent.com/85589562/211017426-f872dbfb-76f9-4b6e-9074-11dbaf9c892e.png" alt="drawing" width="400"/> <img src="https://user-images.githubusercontent.com/85589562/211017451-a466a6d9-6fd9-4fe1-9c9c-3bae7bc49c3e.png" alt="drawing" width="400"/> <img src="https://user-images.githubusercontent.com/85589562/211017484-43bad02a-9183-4043-8402-28cd49c68786.png" alt="drawing" width="200"/>
 
 ## Note: petwork weights for trained CPM and ViTPose have been removed due to size limitations.
